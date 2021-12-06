@@ -10,7 +10,9 @@ En este repositorio vamos a subir todas las pruebas de uso de git de los alumnos
 
 ## Colaboradores
 
+* Juan Nicolas Maidana
 
 ## Tps subidos
 
 * tp7 -> Matias Novoa
+* tp8 -> Juan N. Maidana
