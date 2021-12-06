@@ -4,6 +4,13 @@
 
 En este repositorio vamos a subir todas las pruebas de uso de git de los alumnos de la comision 5b y 7a.
 
-## Colaboradores
+## Profesor
 
 * Matias Novoa
+
+## Colaboradores
+
+
+## Tps subidos
+
+* tp7 -> Matias Novoa
